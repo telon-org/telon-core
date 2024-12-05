@@ -1,4 +1,6 @@
-# react-native-sip2
+# telon-core
+
+based on react-native-sip
 ![npm version](https://badge.fury.io/js/react-native-sip2.svg)
 
 **UPDATE**: Now is based on PJSIP 2.9
